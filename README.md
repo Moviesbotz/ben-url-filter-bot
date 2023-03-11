@@ -125,7 +125,6 @@
 </a>
 </p>
 </details>
-
 <details><summary>Deploy To Heroku Via Bot</summary>
 <p>
 <br>
@@ -138,22 +137,14 @@
 <details><summary>Deploy To Koyeb</summary>
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=koyeb&name=dqthefiledonor)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=web&name=dqthefiledonor)
 </details>
 
-<details><summary>Deploy on Railway</summary>
-<a href="https://railway.app/new/template/y0ryFO">
-<img src="https://railway.app/button.svg" alt="Deploy on Railway">
-</a>
-</details>
-
-<details><summary> Deploy To Okteto </summary>
+<details><summary>Deploy To Render</summary>
 <br>
-<p>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Joelkb/DQ-The-File-Donor&branch=master">
-  <img src="https://okteto.com/develop-okteto.svg" alt="Deploy to Okteto">
+<a href="https://render.com/deploy?repo=https://github.com/Moviesbotz/ben-url-filter-bot/tree/web">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
-</p>
 </details>
 
 <details><summary>Deploy To VPS</summary>
@@ -177,8 +168,8 @@ python3 bot.py
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Mahesh For His Awesome [Mᴇᴅɪᴀ-Sᴇᴀʀᴄʜ-Bᴏᴛ](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Uɴʟɪᴍɪᴛᴇᴅ Fɪʟᴛᴇʀ Bᴏᴛ](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ](https://github.com/trojanzhex/auto-filter-bot)
+ - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
+ - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
  - Thanks To All Everyone In This Journey
  - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
  - Thanks To [Joelkb](https://github.com/Joelkb) who have edited and modified this repo as now it is. (It's me 😂)
